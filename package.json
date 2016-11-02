@@ -1,0 +1,11 @@
+{
+  "name": "angular-movie-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor js/conf.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
